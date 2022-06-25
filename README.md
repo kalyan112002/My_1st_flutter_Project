@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+# Want to know the Output how it is displayed just refer output folder in the above folders and checkout the screenshot 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
